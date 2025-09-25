@@ -1,4 +1,4 @@
-![Gambar App](assets/screenshot(148).png)
+![Gambar App](assets/Screenshot(148).png)
 # todo_app_pemula
 
 A new Flutter project.
